@@ -1,0 +1,1 @@
+print("Had l-machro3 bda mn 0")
